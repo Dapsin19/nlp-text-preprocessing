@@ -1,4 +1,4 @@
-# NLP Text Preprocessing with NLTK 🧠🧹
+# NLP Text Preprocessing with NLTK 
 
 This project demonstrates basic Natural Language Processing (NLP) techniques using NLTK in Python.
 
